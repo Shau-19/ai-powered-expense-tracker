@@ -1,1 +1,1 @@
-# ai-powered-expense-tracker
+To run the application, first install the dependencies with `pip install -r requirements-prod.txt`. Then, create a .env file with your GPT API key. Finally, run the application with `uvicorn main:app --host 0.0.0.0 --port 8000`. You can test the API endpoints with a tool like curl or a REST client.
